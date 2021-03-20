@@ -1,0 +1,4 @@
+rencana ke depan
+
+- Belajar Kotlin
+- Belajar Android
